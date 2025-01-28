@@ -1,0 +1,15 @@
+fastapi
+tensorflow==2.18.0
+numpy
+pillow
+uvicorn
+opencv-python-headless
+python-multipart
+slowapi
+torch
+torchvision
+transformers
+kornia
+einops
+timm
+logging
